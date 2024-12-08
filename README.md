@@ -8,7 +8,7 @@ Welcome to **Shawarmania**, a vibrant and modern website designed to showcase a 
 
 - **Interactive Menu**: A user-friendly menu showcasing various shawarma options, including the ability to select quantities and add items to the cart.
 - **Responsive Design**: The website is fully responsive and adapts to various screen sizes using Tailwind CSS.
-- **Order Process**: Users can view their cart and proceed to payment using Razorpay for secure online payments.
+- **Order Process**: Users can view their cart
 - **Modern UI**: The UI is clean, intuitive, and designed with a modern aesthetic for a delightful user experience.
 
 ## Tech Stack
@@ -16,7 +16,6 @@ Welcome to **Shawarmania**, a vibrant and modern website designed to showcase a 
 - **Vite**: A fast build tool for modern web development, which provides fast hot-reloading during development and optimized builds for production.
 - **ReactJS**: A JavaScript library for building user interfaces, used here for managing the app’s dynamic content and state.
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs without writing custom CSS.
-- **Razorpay**: Integration for payment processing, allowing customers to securely make online payments.
 
 ## Installation
 
